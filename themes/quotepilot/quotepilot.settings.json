@@ -1,0 +1,79 @@
+{
+  "name": "quotepilot",
+  "like": "neutral",
+  "mode": "light-only",
+  "settings": [
+    {
+      "thing": "--font-family-body",
+      "value": "var(--font-geist-sans, system-ui), system-ui, sans-serif",
+      "source": "token"
+    },
+    {
+      "thing": "--font-family-heading",
+      "value": "var(--font-geist-sans, system-ui), system-ui, sans-serif",
+      "source": "token"
+    },
+    {
+      "thing": "accent",
+      "value": "#B8461B",
+      "source": "dial"
+    },
+    {
+      "thing": "neutral",
+      "value": "#7A7064",
+      "source": "dial"
+    },
+    {
+      "thing": "corners",
+      "value": "small",
+      "source": "dial"
+    },
+    {
+      "thing": "--color-background-body",
+      "value": "#F4F0E8",
+      "source": "token"
+    },
+    {
+      "thing": "--color-background-surface",
+      "value": "#FBF9F5",
+      "source": "token"
+    },
+    {
+      "thing": "--color-background-card",
+      "value": "#FBF9F5",
+      "source": "token"
+    },
+    {
+      "thing": "--color-text-primary",
+      "value": "#171513",
+      "source": "token"
+    },
+    {
+      "thing": "--color-text-secondary",
+      "value": "#5F584F",
+      "source": "token"
+    },
+    {
+      "thing": "--color-border",
+      "value": "#DDD5C8",
+      "source": "token"
+    },
+    {
+      "thing": "--radius-element",
+      "value": "4px",
+      "source": "token"
+    },
+    {
+      "thing": "--radius-container",
+      "value": "6px",
+      "source": "token"
+    },
+    {
+      "thing": "--radius-inner",
+      "value": "3px",
+      "source": "token"
+    }
+  ],
+  "lifted": [],
+  "palette": "37df0b5b96ed802aa1df2b30178a3a9d9d4295f342c672ae21926a611aa23420"
+}
